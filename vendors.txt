@@ -2,3 +2,4 @@
 02nd Changes - Ram
 03rd Changes - Test Stashing
 04th Changes - Changes for Remote GIT repository  
+05th Changes - Changes made from Remote GIT repository
